@@ -1,7 +1,6 @@
 ### Hello Everyone 👋
-   I am Sanket Jagtap
-   A Budding Web Developer
-   I am a first year UG student of IIT Kharagpur.
+  ## I am Sanket Jagtap 
+  #### A Budding Web Developer. <br>I am a first year UG student of IIT Kharagpur.
 
 
 
