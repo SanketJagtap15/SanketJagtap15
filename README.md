@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello Everyone 👋
+   I am Sanket Jagtap
+   A Budding Web Developer
+   I am a first year UG student of IIT Kharagpur.
 
-<!--
-**SanketJagtap15/SanketJagtap15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on a spacial Javascript Project.
+- 🌱 I’m currently learning Javascript.
+- 👯 I’m looking to collaborate on any Web Developement Project.
+- 📫 My Portfolio : https://sanketjagtap15.github.io/SJsquare/
+- My Another Portfolio : https://sanketjagtap15.github.io/
+- ⚡ Fun fact: I am an Adventures Guy.
