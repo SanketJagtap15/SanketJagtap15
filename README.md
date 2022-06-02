@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on a spacial Javascript Project.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on any Web Developement Project.
 - 📫 My Portfolio : https://sanketjagtap15.github.io/SJsquare/
 - My Another Portfolio : https://sanketjagtap15.github.io/
