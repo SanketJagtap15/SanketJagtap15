@@ -13,10 +13,19 @@
 - ⚡ Fun fact: I am an Adventurous Guy.
 
 
-
-<a href="https://twitter.com/SJsquare15">
-  <img align="left" alt="Mitul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.instagram.com/sanket_jagtap_1508/">
+  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sanket-jagtap-2131a9214/">
-  <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCez_UhO4w1zdhxorvawYsXA">
+  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100075534761445">
+  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<a href="https://twitter.com/SJsquare15">
+  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
