@@ -11,9 +11,9 @@
 - 📫 My Portfolio : https://sanketjagtap15.github.io/SJsquare/
 - My Another Portfolio : https://sanketjagtap15.github.io/
 - ⚡ Fun fact: I am an Adventurous Guy.
-- <br>
 
 
+<br>
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sanket_jagtap_1508/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-jagtap-2131a9214/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SJsquare15) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCez_UhO4w1zdhxorvawYsXA) [![Facebook](https://img.shields.io/badge/Facebook-%23158bd4.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075534761445)
 <br><br>
