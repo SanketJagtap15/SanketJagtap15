@@ -23,7 +23,7 @@
   <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100075534761445">
-  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/meta.svg" />
 </a>
 <a href="https://twitter.com/SJsquare15">
   <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
