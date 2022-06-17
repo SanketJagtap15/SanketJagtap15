@@ -45,13 +45,13 @@
   <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/> -->
-</p><br>
+</p>
 
 <h2><b>⚡ Github Stats</b></h2>
 <p align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sanketjagtap15&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="sanket"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketjagtap15&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="suraj" />
-</p><br>
+</p>
 
 <p align="center">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgupta3072&theme=tokyonight_duo&hide_border=false" alt="Suraj's readme streaks" />
