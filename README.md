@@ -11,3 +11,12 @@
 - 📫 My Portfolio : https://sanketjagtap15.github.io/SJsquare/
 - My Another Portfolio : https://sanketjagtap15.github.io/
 - ⚡ Fun fact: I am an Adventurous Guy.
+
+
+
+<a href="https://twitter.com/SJsquare15">
+  <img align="left" alt="Mitul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sanket-jagtap-2131a9214/">
+  <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
