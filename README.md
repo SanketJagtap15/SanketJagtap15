@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgupta3072&theme=tokyonight_duo&hide_border=false" alt="Suraj's readme streaks" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketjagtap15&theme=tokyonight_duo&hide_border=false" alt="Sanket's readme streaks" />
 </p>
 <br><br>
 <div align="center">
