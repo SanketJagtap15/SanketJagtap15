@@ -1,14 +1,14 @@
 ### Hello Everyone 👋
   ## I am Sanket Jagtap 
-  #### A Budding Developer. <br>I am a third year UG student of IIT Kharagpur.
+  #### A Budding Developer. <br>I am a third-year UG student of IIT Kharagpur.
 
 
 
 
-- 🔭 I’m currently working on a spacial ML Project.
+- 🔭 I’m currently working on a special ML Project.
 - 🌱 I’m currently learning DSA.
-- 👯 I’m looking to collaborate on any Web Developement/ AI/ ML Projects.
-- 📫 My Portfolio Website : https://sanketjagtap15.github.io/
+- 👯 I want to collaborate on Web Development/ AI/ ML Projects.
+- 📫 My Portfolio Website: https://sanketjagtap15.github.io/
 - ⚡ Fun fact: I am an Adventurous Guy.
 
 
