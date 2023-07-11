@@ -55,8 +55,8 @@
 <p align="center">
 <!--     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sanketjagtap15&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="sanket"/> -->
   <br>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/username=sanketjagtap15&theme=tokyonight&hide=&hide_border=false&border_color=808080&bg_color=242424" alt="sanket" />
-</p>
+<!--     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/username=sanketjagtap15&theme=tokyonight&hide=&hide_border=false&border_color=808080&bg_color=242424" alt="sanket" />
+</p> -->
 
 <p align="center">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketjagtap15&theme=tokyonight_duo&hide_border=false" alt="Sanket's readme streaks" />
