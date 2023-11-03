@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning DSA.
 - 👯 I want to collaborate on Web Development/ AI/ ML Projects.
 - 📫 My Portfolio Website: https://sanketjagtap15.github.io/
-- ⚡ Fun fact: I am an Adventurous Guy.
+- ⚡ Fun fact: I am a Tech-savvy Adventurous Guy.
 
 
 ## 🌐 Socials
