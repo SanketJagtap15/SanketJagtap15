@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
   ## I am Sanket Jagtap 
-  #### A Budding Developer. <br>I am a third-year UG student of IIT Kharagpur.
+  #### A Budding Developer. <br>I am a final year UG student of IIT Kharagpur.
 
 
 
