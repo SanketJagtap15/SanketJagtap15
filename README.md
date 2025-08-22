@@ -28,22 +28,22 @@
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=chainlink&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/HuggingFace-FFBE00.svg?style=for-the-badge&logo=huggingface&logoColor=black" height="25"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/git%20&%20github-FF9800.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
 
 
     <!-- AI/ML -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=chainlink&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFBE00.svg?style=for-the-badge&logo=huggingface&logoColor=black" height="25"/>
+    <!-- DevOps / Cloud -->
 
-<!-- DevOps / Cloud -->
-<img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/git%20&%20github-FF9800.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
     
 </p>
 
