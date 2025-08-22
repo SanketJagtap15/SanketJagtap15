@@ -1,19 +1,18 @@
 ### Hello Everyone 👋
   ## I am Sanket Jagtap 
-  #### A Budding Developer. <br>I am a final year UG student of IIT Kharagpur.
+  #### An AI Engineer. <br>I am a recent graduate of IIT Kharagpur.
 
 
 
 
-- 🔭 I’m currently working on a special ML Project.
-- 🌱 I’m currently learning DSA.
-- 👯 I want to collaborate on Web Development/ AI/ ML Projects.
-- 📫 My Portfolio Website: https://sanketjagtap15.github.io/
+- 🔭 I’m currently working on Agentic AI projects.
+- 👯 I am open to collaborate on AI/ ML Projects.
+- 📫 My Portfolio Website: https://sanketjagtap.in/
 - ⚡ Fun fact: I am a Tech-savvy Adventurous Guy.
 
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sanket_jagtap_15/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-jagtap-2131a9214/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SJsquare15) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCez_UhO4w1zdhxorvawYsXA) [![Facebook](https://img.shields.io/badge/Facebook-%23158bd4.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075534761445)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sanketjagtap.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-jagtap-2131a9214/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SJsquare15) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCez_UhO4w1zdhxorvawYsXA) [![Facebook](https://img.shields.io/badge/Facebook-%23158bd4.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075534761445)
 <br><br>
 <h2><b>💻 Tech Stack</b></h2>
 <p align="center">
