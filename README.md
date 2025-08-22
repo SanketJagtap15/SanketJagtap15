@@ -23,7 +23,7 @@
 ## 💻 Tech Stack  
 
 <p align="center">
-    <!-- Core Languages -->
+    <!-- Tech Stack -->
     <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>
@@ -39,11 +39,6 @@
     <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/git%20&%20github-FF9800.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
-
-
-    <!-- AI/ML -->
-    <!-- DevOps / Cloud -->
-
     
 </p>
 
